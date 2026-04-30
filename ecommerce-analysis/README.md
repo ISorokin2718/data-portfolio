@@ -15,6 +15,10 @@ E-commerce Data Analysis
 3) Визуализация
 4) Расчёт ключевых метрик
 
+Визуализация:
+ecommerce-analysis/images/revenue.png
+ecommerce-analysis/images/pareto_products.png
+
 Основные выводы:
 
 1) Продажи имеют сезонный характер с пиком осенью
