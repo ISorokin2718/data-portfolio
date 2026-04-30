@@ -6,6 +6,7 @@ E-commerce Data Analysis
 1) Python
 2) pandas
 3) matplotlib
+4) numpy
 
 Что сделано:
 
